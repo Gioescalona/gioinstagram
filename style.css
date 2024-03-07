@@ -1,0 +1,31 @@
+body{
+    background-color:grey;
+  }
+  h1{
+    background-color:beige;
+    padding:10px;
+    text-align:center;
+      font-family:helvetica;
+  }
+  .container{
+    width:35%;
+  background-color:white;
+    margin:auto;
+    margin-top:50px;
+  }
+  
+  .footer {
+    background-color: white;
+    padding:5px;
+  }
+
+  .img1 {
+    width:100%;
+  }
+   
+  .headerpost{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding:10px;
+  }
